@@ -1,0 +1,32 @@
+body {
+    background-color: #1F1F1F;
+}
+
+.card {
+    background-color: #292929;
+    color: #FAFAFA;
+}
+
+input {
+    background-color: #292929 !important;
+    color: #FAFAFA !important;
+    border: solid 2px #57c9e5 !important;
+    
+}
+
+input:focus {
+    outline: none !important;
+    box-shadow:none !important;
+}
+
+.btn-primary {
+    background-color: #57c9e5 !important;
+    border: #57c9e5 !important;
+    height: 40px !important;
+}
+
+.titulo {
+    color:aliceblue;
+    padding-left: 15%;
+    font-family: Arial, Helvetica, sans-serif;
+}
